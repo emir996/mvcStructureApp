@@ -1,2 +1,2 @@
 # mvcStructureApp
-Building application with model-view-controller design pattern
+Building application on model-view-controller design pattern.
