@@ -12,7 +12,7 @@ class Pages extends Controller {
 
     public function about()
     {
-        $this->view('pages/home');
+        $this->view('pages/about');
     }
     
 }
